@@ -1,4 +1,4 @@
-// Palabras disponibles para adivinar
+// Palabras disponibles para adivinarla
 const palabras = ["manzana", "pera", "naranja", "banana", "uva"];
 
 // Palabra aleatoria seleccionada para adivinar
